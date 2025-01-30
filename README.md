@@ -1,12 +1,8 @@
-# Pothole_Detection
 
-![image](https://github.com/user-attachments/assets/1dccdc56-b037-44dd-80f0-fdb77c7c288b)
-
-![image](https://github.com/user-attachments/assets/92b7dedd-c0d6-472e-9ebe-06d9c0cee90c)
 
 
 ## Description
-This project demonstrates a pothole detection system. The application uses a deep learning-based object detection model to detect potholes in uploaded road images and provides feedback by highlighting detected potholes with bounding boxes.
+The application uses a deep learning-based object detection model to detect potholes in uploaded road images and provides feedback by highlighting detected potholes with bounding boxes.
 The app is implemented in Python using Flask for the web interface, and the models are trained using PyTorch and ONNX for inference.
 
 ## Features
@@ -14,7 +10,7 @@ Upload an image of a road through a simple web interface.
 
 Detect potholes in the uploaded image and highlight them with bounding boxes.
 
-Provide a message, "Potholes detected. Drive safely," for better user experience.
+Provide a message, "Potholes detected" for better user experience.
 
 Beautiful and responsive web design for user-friendly interaction.
 
@@ -28,7 +24,7 @@ Virtual environment setup (recommended)
 
 Clone the repository:
 bash : Copy code : 
-git clone https://github.com/TharushiHansika/Pothole_Detection.git
+git clone https:/
 cd PotholeDetection
 
 Create a virtual environment:
@@ -47,7 +43,7 @@ venv\Scripts\activate
 Start the Flask application:
 bash : Copy code : 
 python app.py
-
+git clone https://github.com/damancharlasai/Detecting_pothole_repo
 Open your browser and navigate to:
 Copy code : 
 http://127.0.0.1:5000
@@ -67,4 +63,4 @@ Deep Learning: PyTorch, ONNX
 Dependencies: OpenCV, Pillow, NumPy, Ultralytics YOLO
 
 ## Author
-Tharushi Hansika - Initial Work
+venkat ..
