@@ -6,8 +6,8 @@ nc: 1
 names: ['Pothole']
 
 roboflow:
-  workspace: tharushihansika
-  project: pothole-detection-t9zya
+  workspace: venkat
+  project: pothole-detection
   version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/tharushihansika/pothole-detection-t9zya/dataset/2
+  url: https://app.roboflow.com/dleela-venkata-sai/pothole-detection-t9zya-5z7yd/models
